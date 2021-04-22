@@ -58,4 +58,7 @@ https://rare-technologies.com/what-is-topic-coherence/
 
 https://towardsdatascience.com/evaluate-topic-model-in-python-latent-dirichlet-allocation-lda-7d57484bb5d0
 
+#PyLDA visualization:
+![image](https://user-images.githubusercontent.com/60771035/115721217-769a1580-a39b-11eb-822b-19f265de6fd7.png)
 
+![image](https://user-images.githubusercontent.com/60771035/115721444-aa753b00-a39b-11eb-9d81-a23ae7a2d33f.png)
